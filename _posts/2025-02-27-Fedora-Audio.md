@@ -2,14 +2,14 @@
 title: Audio Production in Fedora
 date: 2025-02-27 06:44:00 
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production]     
+tags: [fedora, audio production, music production]     
 ---
 
 
 # Introduction
 
-This post is the first in a series about audio production in Fedora 41+ for the beginner, this is not for the professional audio producer running a professional recording studio.
-It goes how to setup Fedora 41+ for audio production, what tools are available direct in the Fedora repositories and where to get a lor of free and paid resources like DAW, Instrument and Audio processing plugins samples, soundfonts etc.
+This post is the first in a series about audio and music production in Fedora 41+ for a beginner point of view, this is not for the professional audio producer running a professional recording studio.
+It goes through how to setup Fedora 41+ for audio production, what tools are available direct in the Fedora repositories and where to get a lor of free and paid resources like DAW, Instrument and Audio processing plugins samples, soundfonts etc.
 
 ## Audio technology in Fedora  
 
@@ -43,20 +43,23 @@ We only need a couple of packages to make everything work.
 ```bash
 sudo dnf install sudo dnf install pipewire-jack-audio-connection-kit qpwgraph 
 ```
+> **pipewire-jack-audio-connection-kit** is the Pipewire JACK API that make application made for JACK work nicely without the complex setup that a Jack Server require.
+{: .prompt-tip }
 
-**pipewire-jack-audio-connection-kit** is the Pipewire JACK API that make application made for JACK work nicely without the complex setup that a Jack Server require.
-**qpwgraph** is a virtual patchbay for pipewire, that make it possible to make more complex audio/midi routing between applications and input/output devices like soundcard, audio interface, midi keyboards etc. In most cases it is not needed, but it is nice to see what is going on.
+> **qpwgraph** is a virtual patchbay for pipewire, that make it possible to make more complex audio/midi routing between applications and input/output devices like soundcard, audio interface, midi keyboards etc. In most cases it is not needed, but it is nice to see what is going on.
+{: .prompt-tip }
 
 ```bash
 flatpak install pavucontrol --user
 ```
-**pavucontrol** is a more advanced Volume Control application, that give you more control over your audio input/output devices than the Gnome Sound settings.
+> **pavucontrol** is a more advanced Volume Control application, that give you more control over your audio input/output devices than the Gnome Sound settings.
+{: .prompt-tip }
 
 ## Hardware
 You don't need any extra hardware, to get started, but the following will improve the experience over time. It is a rabbit hole, your can spend a lot of money and time researching equipment, So I just come with some budget friendly options, that don't sucks and works fine in Linux.
 
 ### Midi Keyboard
-A small cheap midi keyboard like Ex. Akai Professional LPK25 or M-Audio Keystation Mini 32 will make it more fun.
+A small cheap midi keyboard like Ex. Akai Professional LPK25 or M-Audio Keystation Mini 32 will make it easier and more fun.
 
 ### Audio Interface
 An audio interface like will be an requirement if you want to record audio from microphones og instruments like a guitar and want to have som decent audio.
