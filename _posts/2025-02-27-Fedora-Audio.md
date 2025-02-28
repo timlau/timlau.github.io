@@ -1,8 +1,9 @@
 ---
 title: Audio Production in Fedora
-date: 2025-02-27 06:44:00 
+date: 2025-02-27 06:44:00 +0100
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production, music production]     
+tags: [fedora, audio production, music production]
+image: assets/img/pexels-llane-a-3825752.jpg     
 ---
 
 
@@ -56,6 +57,8 @@ flatpak install pavucontrol --user
 {: .prompt-tip }
 
 ## Hardware
+![hardware](assets/img/pexels-carlos-santos-892832-3672355.jpg){: .shadow }
+
 You don't need any extra hardware, to get started, but the following will improve the experience over time. It is a rabbit hole, your can spend a lot of money and time researching equipment, So I just come with some budget friendly options, that don't sucks and works fine in Linux.
 
 ### Midi Keyboard
