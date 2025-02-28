@@ -40,6 +40,19 @@ JUCE is an open-source cross-platform C++ application framework for creating des
 This package is used to build application there is using the JUCE framework, so the package don't need to have the whole JUCE source and build it every time.
 a very basic dummy plugin made with JUCE is located [Here](https://github.com/timlau/juce-test)
 
+#### Polyphone
+Polyphone is a multiplatform and open-source soundfont editor for creating musical instruments.
+
+* editing of sf2, sf3, sfz and sfArk file formats
+* compatible with Jack and ASIO audio servers
+* built-in synthesizer, controlled by a virtual keyboard or MIDI signals
+* automatic recognition of root keys
+* automatic loop of samples
+* simultaneous editing of parameters
+* specific tools for musical instrument creation
+* recorder to keep a trace of what is played in a .wav file
+* soundfont browser connected to the online repository
+
 ## How to install
 
 #### Install sfizz audio plugins (vst3 or lv2)
@@ -98,6 +111,13 @@ sudo dnf install dragonfly-reverb
 
 ```bash
 sudo dnf install libJUCE-devel
+```
+{: .nolineno }
+
+#### Install polyphone
+
+```bash
+sudo dnf install polyphone
 ```
 {: .nolineno }
 
