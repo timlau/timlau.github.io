@@ -1,21 +1,21 @@
 ---
 title: Audio Production in Fedora
-date: 2025-02-27 HH:MM:SS +/-TTTT
+date: 2025-02-27 06:44:00 
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production]     # TAG names should always be lowercase
+tags: [fedora, audio production]     
 ---
 
 
-# Audio Production in Fedora
+# Introduction
 
-This site is about audio production in Fedora 41+ for the beginer, this is not for the professional audio producer running a profesional recording studio.
-It goes how to setup Fedora 41+ for audio production, what tools are available direct in the Fedora repositories and where to get a lor of free and paid ressources like DAW, Instrument and Audio processing plugins samples, soundfonts etc.
+This post is the first in a series about audio production in Fedora 41+ for the beginner, this is not for the professional audio producer running a professional recording studio.
+It goes how to setup Fedora 41+ for audio production, what tools are available direct in the Fedora repositories and where to get a lor of free and paid resources like DAW, Instrument and Audio processing plugins samples, soundfonts etc.
 
-## Audio technolygy in Fedora 
+## Audio technology in Fedora  
 
-As this is a beginner guide, I will not go into a deep dive in all the low-level audio technolygy in Linux/Fedora
+As this is a beginner guide, I will not go into a deep dive in all the low-level audio technology in Linux/Fedora
 I will quickly go through the stuff interesting to know about below.
-Pipewire is the new cool technoligy, that make audio production much easier from the end users point of view, all the applications made for using JACK, Pulseaudio & Alsa can just plugin into Pipewire and work without needing any complex setup.
+Pipewire is the new cool technology, that make audio production much easier from the end users point of view, all the applications made for using JACK, Pulseaudio & Alsa can just plugin into Pipewire and work without needing any complex setup.
 
 ### ALSA
 Advanced Linux Sound Architecture (ALSA): This is a software framework and part of the Linux kernel that handles sound on Linux-based operating systems. It provides an API for sound card drivers, allowing applications to produce and manage audio. 
@@ -53,7 +53,7 @@ flatpak install pavucontrol --user
 **pavucontrol** is a more advanced Volume Control application, that give you more control over your audio input/output devices than the Gnome Sound settings.
 
 ## Hardware
-You don't need any extra hardware, to get started, but the following will improve the experiance over time. It is a rabbit hole, your can spend a lot of money and time reseaching equiptment, So I just come with some budget friendly options, that don't sucks and works fine in Linux.
+You don't need any extra hardware, to get started, but the following will improve the experience over time. It is a rabbit hole, your can spend a lot of money and time researching equipment, So I just come with some budget friendly options, that don't sucks and works fine in Linux.
 
 ### Midi Keyboard
 A small cheap midi keyboard like Ex. Akai Professional LPK25 or M-Audio Keystation Mini 32 will make it more fun.
