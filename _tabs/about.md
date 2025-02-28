@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My name is Tim and I live in denmark, I is a long-time Fedora Linux users (Since Fedora Core 2).
+
+I do a lot of Python coding in my spare-time, I'm the main developer of Yum Extender (yumex), I have previous contributed to many projects like Yum, Fedora Review etc.
+
+I have a lot of interests in many subjects like Audio & Music production, Space Exploration, Video editing etc.
