@@ -1,6 +1,6 @@
 ---
 title: Audio applications in timlau/audio
-date: 2025-02-27 06:44:00 +0100
+date: 2025-03-03 20:00:00 +0100
 categories: [Fedora, Audio Production]
 tags: [fedora, audio production, music production]
 image: assets/img/pexels-tima-miroshnichenko-4988137.jpg   
@@ -52,6 +52,17 @@ Polyphone is a multiplatform and open-source soundfont editor for creating music
 * specific tools for musical instrument creation
 * recorder to keep a trace of what is played in a .wav file
 * soundfont browser connected to the online repository
+
+#### YK Chorus
+A chorus effect inspired by the one found in certain well-known Japanese vintage analog synthesizers (Juno 60)
+
+#### Odin 2
+Odin 2 is a 24-voice polyphonic powerhouse that will transport you from your studio straight to Valhalla.
+Whether you're after earth-shattering basses, soaring leads, or otherworldly FX, Odin 2 delivers it all.
+Harness the classic warmth of analog waveforms — or draw custom ones. 
+High-quality emulations of legendary analog filters, like the Moog Ladder, the Korg 35 and many more let you shape your sound. 
+Finish it off with five onboard FX or dive into endless modulation possibilities. 
+There’s a whole world to explore in Odin 2.
 
 ## How to install
 
@@ -121,4 +132,20 @@ sudo dnf install polyphone
 ```
 {: .nolineno }
 
+#### Install ykchorus  (clap or vst3 or lv2  or standalone)
+```bash
+sudo dnf install ykchorus-clap
+sudo dnf install ykchorus-vst3
+sudo dnf install ykchorus-lv2
+sudo dnf install ykchorus
+```
+{: .nolineno }
+
+#### Install odin2  (vst3 or lv2  or standalone)
+```bash
+sudo dnf install odin2-vst3
+sudo dnf install odin2-lv2
+sudo dnf install odin2
+```
+{: .nolineno }
 
