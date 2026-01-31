@@ -17,3 +17,8 @@ quote_type = double
 
 [*.md]
 trim_trailing_whitespace = false
+
+[Makefile]
+trim_trailing_whitespace = true
+indent_style = tab
+indent_size = 2
