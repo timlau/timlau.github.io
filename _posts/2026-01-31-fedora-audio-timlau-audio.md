@@ -14,17 +14,46 @@ sudo dnf enable timlau/audio
 ```
 {: .nolineno }
 
-## Applications
-
-### Sfizz
-
-Sfizz is a musical sampler, available as LV2 and VST plugins for musicians,
-
-### Dexed
-A synth that is closely modeled on the Yamaha DX7
+## Instruments
 
 ### Geonkick
 Geonkick is a synthesizer that can synthesize elements of percussion. The most basic examples are: kicks, snares, hit-hats, shakers, claps.
+
+### Dexed
+[Dexed](https://asb2m10.github.io/dexed/) is a synth that is closely modeled on the Yamaha DX7
+![Dexed](/home/tim/Pictures/Screenshots/dexed.png){: .shadow }
+
+### Sfizz
+[Sfizz](https://sfztools.github.io/sfizz/) is a sample-based musical synthesizer.
+It features the well-established SFZ instrument format at its core, which permits to use existing instrument libraries, or create personal instruments with ease. Not only is sfizz ready-to-use as an instrument plugin of its own, the library allows developers to create instruments of their own, taking advantage of the abilities of SFZ.
+
+### Odin 2
+[Odin 2](https://thewavewarden.com/pages/odin-2) is a 24-voice polyphonic powerhouse that will transport you from your studio straight to Valhalla.
+Whether you're after earth-shattering basses, soaring leads, or otherworldly FX, Odin 2 delivers it all.
+Harness the classic warmth of analog waveforms — or draw custom ones. 
+High-quality emulations of legendary analog filters, like the Moog Ladder, the Korg 35 and many more let you shape your sound. 
+Finish it off with five onboard FX or dive into endless modulation possibilities. 
+There’s a whole world to explore in Odin 2.
+![odin2](https://cdn.shopify.com/s/files/1/0641/1304/9835/files/odin.2.4_fading.png?v=1748421452){: .shadow }
+
+### Crypt2
+[Crypt](https://www.vitling.xyz/crypt/) is a software synthesiser plugin designed for creating spacious cold hyper-unisoned
+synth sounds
+![crypt2](https://github.com/timlau/crypt2/raw/main/images/Screenshot.png){: .shadow }
+
+### OB-Xf
+OB-Xf is a Synth based on the legendary Oberheim OB-X.
+OB-Xf is a continuation of the last open source version of OB-Xd by 2DaT and later discoDSP,
+bringing together several efforts going on in the audio space and combining them inside the Surge Synth Team infrastructure.
+The synth is currently in a beta phase, with a few features still under development, but the plugin is feature stable and working rather well,
+we believe.
+![OB-Xf](/home/tim/Pictures/Screenshots/OBXf.png)
+
+### Lost N' Found Piano
+Lost N' Found Piano, a virtual instrument plug-in that combines updated versions of the classic mda Piano and mda EPiano VSTs and gives them a new coat of paint.
+![lostandfoundpiano](https://github.com/timlau/lost-and-found-piano/raw/main/images/Screenshot.png){: .shadow }
+
+## Effects
 
 ### Neural Amp Modeler 
 LV2 plugin implementation Neural Amp Modeler
@@ -35,10 +64,11 @@ AIDA-X is an Amp Model Player, allowing it to load models of AI trained music ge
 ### Dragonfly Reverb
 Dragonfly Reverb is a bundle of free audio effects for Linux, MacOS, and Windows. The reverb algorithms are based on the original Freeverb. The DR-1 algorithm is based on the Schroeder/Moorer reverb. The DR-2 algorithm is based on the original Freeverb algorithm. The DR-3 algorithm is a unique reverb algorithm developed by Michael Willis.
 
-### JUCE
-JUCE is an open-source cross-platform C++ application framework for creating desktop and mobile applications, including VST, VST3, AU, AUv3, AAX and LV2 audio plug-ins and plug-in hosts.
-This package is used to build application there is using the JUCE framework, so the package don't need to have the whole JUCE source and build it every time.
-a very basic dummy plugin made with JUCE is located [Here](https://github.com/timlau/juce-test)
+### YK Chorus
+A chorus effect inspired by the one found in certain well-known Japanese vintage analog synthesizers (Juno 60)
+
+
+## Applications
 
 ### Polyphone
 Polyphone is a multiplatform and open-source soundfont editor for creating musical instruments.
@@ -53,30 +83,12 @@ Polyphone is a multiplatform and open-source soundfont editor for creating music
 * recorder to keep a trace of what is played in a .wav file
 * soundfont browser connected to the online repository
 
-### YK Chorus
-A chorus effect inspired by the one found in certain well-known Japanese vintage analog synthesizers (Juno 60)
+## Development
 
-### Odin 2
-Odin 2 is a 24-voice polyphonic powerhouse that will transport you from your studio straight to Valhalla.
-Whether you're after earth-shattering basses, soaring leads, or otherworldly FX, Odin 2 delivers it all.
-Harness the classic warmth of analog waveforms — or draw custom ones. 
-High-quality emulations of legendary analog filters, like the Moog Ladder, the Korg 35 and many more let you shape your sound. 
-Finish it off with five onboard FX or dive into endless modulation possibilities. 
-There’s a whole world to explore in Odin 2.
-
-### Crypt2
-**Crypt** is a software synthesiser plugin designed for creating spacious cold hyper-unisoned
-synth sounds
-
-### OB-Xf
-OB-Xf is a Synth based on the legendary Oberheim OB-X.
-OB-Xf is a continuation of the last open source version of OB-Xd by 2DaT and later discoDSP,
-bringing together several efforts going on in the audio space and combining them inside the Surge Synth Team infrastructure.
-The synth is currently in a beta phase, with a few features still under development, but the plugin is feature stable and working rather well,
-we believe.
-
-### Lost N' Found Piano
-Lost N' Found Piano, a virtual instrument plug-in that combines updated versions of the classic mda Piano and mda EPiano VSTs and gives them a new coat of paint.
+### JUCE
+JUCE is an open-source cross-platform C++ application framework for creating desktop and mobile applications, including VST, VST3, AU, AUv3, AAX and LV2 audio plug-ins and plug-in hosts.
+This package is used to build application there is using the JUCE framework, so the package don't need to have the whole JUCE source and build it every time.
+a very basic dummy plugin made with JUCE is located [Here](https://github.com/timlau/juce-test)
 
 ## How to install
 
