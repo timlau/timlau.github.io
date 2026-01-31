@@ -32,7 +32,7 @@ Finish it off with five onboard FX or dive into endless modulation possibilities
 There’s a whole world to explore in Odin 2.
 
 ### Crypt2
-![crypt2](https://github.com/timlau/crypt2/raw/main/images/Screenshot.png){: .shadow }
+![crypt2](https://camo.githubusercontent.com/6a946eeb9d6a1b116ead1f865a2813692f6f50b7120e5185dbf21354821be0c4/68747470733a2f2f7777772e7669746c696e672e78797a2f63727970742f7265736f75726365732f63727970742d73637265656e73686f742e6a7067){: .shadow }
 
 [Crypt](https://www.vitling.xyz/crypt/) is a software synthesiser plugin designed for creating spacious cold hyper-unisoned
 synth sounds
@@ -89,7 +89,7 @@ Polyphone is a multiplatform and open-source soundfont editor for creating music
 ## Development
 
 ### JUCE
-JUCE is an open-source cross-platform C++ application framework for creating desktop and mobile applications, including VST, VST3, AU, AUv3, AAX and LV2 audio plug-ins and plug-in hosts.
+[JUCE](https://juce.com/) is an open-source cross-platform C++ application framework for creating desktop and mobile applications, including VST, VST3, AU, AUv3, AAX and LV2 audio plug-ins and plug-in hosts.
 This package is used to build application there is using the JUCE framework, so the package don't need to have the whole JUCE source and build it every time.
 a very basic dummy plugin made with JUCE is located [Here](https://github.com/timlau/juce-test)
 
@@ -149,8 +149,13 @@ sudo dnf install dragonfly-reverb
 
 ### Install JUCE
 
+JUCE exist in multiple mayor versions both 8.0 and 7.0 and multiple minor versions. (8.0.11, 8.0.6, 7.0.12)
+different plugins need different versions of JUCE to compile.
+
 ```bash
-sudo dnf install libJUCE-devel
+sudo dnf install JUCE8.0-devel-8.0.11
+sudo dnf install JUCE8.0-devel-8.0.6
+sudo dnf install JUCE7.0-devel
 ```
 {: .nolineno }
 
