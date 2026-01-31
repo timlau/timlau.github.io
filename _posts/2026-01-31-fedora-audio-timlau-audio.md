@@ -21,7 +21,7 @@ Geonkick is a synthesizer that can synthesize elements of percussion. The most b
 
 ### Dexed
 [Dexed](https://asb2m10.github.io/dexed/) is a synth that is closely modeled on the Yamaha DX7
-![Dexed](/home/tim/Pictures/Screenshots/dexed.png){: .shadow }
+![Dexed](assets/img/dexed.png){: .shadow }
 
 ### Sfizz
 [Sfizz](https://sfztools.github.io/sfizz/) is a sample-based musical synthesizer.
@@ -47,7 +47,7 @@ OB-Xf is a continuation of the last open source version of OB-Xd by 2DaT and lat
 bringing together several efforts going on in the audio space and combining them inside the Surge Synth Team infrastructure.
 The synth is currently in a beta phase, with a few features still under development, but the plugin is feature stable and working rather well,
 we believe.
-![OB-Xf](/home/tim/Pictures/Screenshots/OBXf.png)
+![OB-Xf](assets/img/OBXf.png)
 
 ### Lost N' Found Piano
 Lost N' Found Piano, a virtual instrument plug-in that combines updated versions of the classic mda Piano and mda EPiano VSTs and gives them a new coat of paint.
