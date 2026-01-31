@@ -2,7 +2,7 @@
 title: Audio applications in timlau/audio
 date: 2026-01-31 12:30:00 +0100
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production, music production]
+tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-tima-miroshnichenko-4988137.jpg   
 ---
 

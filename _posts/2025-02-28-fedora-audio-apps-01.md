@@ -2,7 +2,7 @@
 title: Audio applications in Fedora repositories
 date: 2025-02-27 06:44:00 +0100
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production, music production]
+tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-pixabay-257904.jpg    
 ---
 

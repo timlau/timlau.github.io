@@ -2,7 +2,7 @@
 title: Audacity 4 Alpha 2 looks awesome
 date: 2026-01-31 14:30:00 +0100
 categories: [Blog, Audio Production]
-tags: [linux, audio production, audacity]
+tags: [Linux, Audio Production, Audacity]
 image: assets/img/audacity-4-a2.png
 ---
 

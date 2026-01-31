@@ -2,7 +2,7 @@
 title: Audio Production in Fedora
 date: 2025-02-27 06:44:00 +0100
 categories: [Fedora, Audio Production]
-tags: [fedora, audio production, music production]
+tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-llane-a-3825752.jpg     
 ---
 
@@ -78,8 +78,3 @@ A good pair of cabled studio headphones, they need to have a neutral audio profi
 
 ### A couple of studio monitors
 When mixing audio you need a couple of studio monitor, I use a pair of [PreSonus Eris E3.5](https://www.presonus.com/products/eris-e35-studio-monitor), they are good value for the money. There are a lot of other choices based on your budget.
-
-
-
-
-
