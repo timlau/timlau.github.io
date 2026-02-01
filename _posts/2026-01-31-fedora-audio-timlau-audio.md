@@ -1,5 +1,5 @@
 ---
-title: Audio applications in timlau/audio
+title: Audio applications in timlau/audio repository
 date: 2026-01-31 12:30:00 +0100
 categories: [Fedora, Audio Production]
 tags: [Fedora, Audio Production, Music Production]
@@ -7,7 +7,7 @@ image: assets/img/pexels-tima-miroshnichenko-4988137.jpg
 pin: true
 ---
 
-I have created a [timlau/audio](https://copr.fedorainfracloud.org/coprs/timlau/audio/) COPR repository to make it easier to install some audio plugins in Fedora 40+, spec files and Makefiles to build the packages is available on [github](https://github.com/timlau/audio_spec_files)
+I have created a [timlau/audio](https://copr.fedorainfracloud.org/coprs/timlau/audio/) COPR repository to make it easier to install some audio plugins in Fedora 42+, spec files and Makefiles to build the packages is available on [github](https://github.com/timlau/audio_spec_files)
 
 ### You can enable the repository using
 ```terminal
