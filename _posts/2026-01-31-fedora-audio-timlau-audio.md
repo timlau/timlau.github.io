@@ -1,6 +1,6 @@
 ---
 title: Audio applications in timlau/audio repository
-date: 2026-01-31 12:30:00 +0100
+date: 2026-02-02 07:21:00 +0100
 categories: [Fedora, Audio Production]
 tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-tima-miroshnichenko-4988137.jpg  
@@ -100,6 +100,18 @@ sudo dnf install geonkick-lv2
 ```
 
 ## Effects
+
+### Build Your Own Distortion (BYOD)
+![BYOD](assets/img/BYOD.png)
+[BYOD](https://github.com/Chowdhury-DSP/BYOD) is a guitar effects plugin with a customisable signal chain that allows users to create their own guitar distortion effects. The plugin contains a wide variety of distortion effects from analog modelled circuits to purely digital creations, along with some musical tone-shaping filters, and a handful of other useful signal processors.
+
+```terminal
+sudo dnf install BYOD
+sudo dnf install BYOD-lv2
+sudo dnf install BYOD-clap
+sudo dnf install BYOD-vst3
+```
+
 
 ### Neural Amp Modeler 
 Neural Amp Modeler is a plugin that allows you to model the sound of an physiGuitar amplifier and cabinet.
