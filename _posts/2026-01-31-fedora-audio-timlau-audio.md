@@ -111,7 +111,7 @@ sudo dnf install BYOD-lv2
 sudo dnf install BYOD-clap
 sudo dnf install BYOD-vst3
 ```
-
+The manual is available [here](https://github.com/Chowdhury-DSP/BYOD/blob/main/manual/Manual.md#byod-user-manual)
 
 ### Neural Amp Modeler 
 Neural Amp Modeler is a plugin that allows you to model the sound of an physiGuitar amplifier and cabinet.
