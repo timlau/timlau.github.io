@@ -16,6 +16,24 @@ sudo dnf enable timlau/audio
 
 ## Instruments
 
+### Vaporizer2
+![Vaporizer2](assets/img/Vaporizer2.png){: .shadow }
+
+[Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) is a hybrid wavetable additive / subtractive synthesizer / sampler workstation
+created by [VAST Dynamics](https://www.vast-dynamics.com/).
+Vaporizer2 comes with a groundbreaking wavetable editor with a vast number of editing possibilities including
+frequency shift, smooth, clean, bend and bloat for single-cycles, parts of single-cycles or even whole wavetables.
+Featuring an easy-to use wavetable draw mode with smooth Bezier curves and snap to grid function.
+
+```terminal
+sudo dnf install Vaporizer2-vst3
+sudo dnf install Vaporizer2-lv2
+sudo dnf install Vaporizer2-clap
+sudo dnf install Vaporizer2
+```
+Extra patches can be downloaded from [here](https://www.vast-dynamics.com/?q=presets)
+
+
 ### Dexed
 ![Dexed](assets/img/dexed.png){: .shadow }
 
