@@ -2,7 +2,7 @@
 title: New plugin - jdrummer
 date: 2026-02-05 13:00:00 +0100
 categories: [Blog, Audio Production]
-tags: [Fedora, Audio Production, Music Production]
+tags: [Fedora, Audio Production, Music Production, Linux, Plugin, VST3, LV2, Clap, Drums]
 image: assets/img/jdrummer.png
 ---
 

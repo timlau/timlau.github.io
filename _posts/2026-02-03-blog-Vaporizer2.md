@@ -2,7 +2,7 @@
 title: New plugin - Vaporizer2
 date: 2026-02-03 08:00:00 +0100
 categories: [Blog, Audio Production]
-tags: [Fedora, Audio Production, Music Production]
+tags: [Fedora, Audio Production, Music Production, Linux, Plugin, VST3, LV2, Clap, Synth]
 image: assets/img/Vaporizer2.png
 ---
 
