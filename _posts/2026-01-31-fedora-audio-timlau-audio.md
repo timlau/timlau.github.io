@@ -16,6 +16,19 @@ sudo dnf enable timlau/audio
 
 ## Instruments
 
+### jdrummer
+![jdrummer](assets/img/jdrummer.png){: .shadow }
+ [jdrummer](https://github.com/jmantra/jdrummer) is a Soundfont-based drum kits, a comprehensive groove library with tempo-synced playback,
+a composition tool, and an intelligent Groove Matcher that analyzes audio to find matching drum patterns.
+
+```terminal
+sudo dnf install jdrummer-vst3
+sudo dnf install jdrummer-lv2
+sudo dnf install jdrummer-clap
+sudo dnf install jdrummer
+```
+
+
 ### Vaporizer2
 ![Vaporizer2](assets/img/Vaporizer2.png){: .shadow }
 
