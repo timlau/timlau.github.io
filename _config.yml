@@ -109,7 +109,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: "utterances" # [disqus | utterances | giscus]
+  provider: "giscus" # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -120,10 +120,10 @@ comments:
     label: "blog-comment" # optional, default to 'blog-comment'
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: "timlau/timlau.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOOApKng" # fill with the Giscus repo ID › https://giscus.app/#/configuration
+    category: "General"
+    category_id: "DIC_kwDOOApKns4C19Mz"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
