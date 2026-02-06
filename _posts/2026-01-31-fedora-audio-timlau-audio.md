@@ -216,10 +216,11 @@ sudo dnf install polyphone
 This package is used to build application there is using the JUCE framework, so the package don't need to have the whole JUCE source and build it every time.
 a very basic dummy plugin made with JUCE is located [Here](https://github.com/timlau/juce-test)
 
-JUCE exist in multiple mayor versions both 8.0 and 7.0 and multiple minor versions. (8.0.11, 8.0.6, 7.0.12)
+JUCE exist in multiple mayor versions both 8.0 and 7.0 and multiple minor versions. (8.0.12, 8.0.11, 8.0.6, 7.0.12)
 different plugins need different versions of JUCE to compile.
 
 ```terminal
+sudo dnf install JUCE8.0-devel-8.0.12
 sudo dnf install JUCE8.0-devel-8.0.11
 sudo dnf install JUCE8.0-devel-8.0.6
 sudo dnf install JUCE7.0-devel
