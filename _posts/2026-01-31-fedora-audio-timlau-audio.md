@@ -1,6 +1,6 @@
 ---
 title: Audio applications in timlau/audio repository
-date: 2026-02-02 07:21:00 +0100
+date: 2026-02-06 11:40:00 +0100
 categories: [Fedora, Audio Production]
 tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-tima-miroshnichenko-4988137.jpg  
@@ -15,6 +15,16 @@ sudo dnf enable timlau/audio
 ```
 
 ## Instruments
+### Wavetable
+![Wavetable](assets/img/Wavetable.png){: .shadow }
+[Wavetable](https://socalabs.com/synths/wavetable/) is A 2 oscillator wavetable synthesizer with flexible modulation options.
+
+```terminal
+sudo dnf install Wavetable-vst3
+sudo dnf install Wavetable-lv2
+sudo dnf install Wavetable-clap
+sudo dnf install Wavetable
+```
 
 ### jdrummer
 ![jdrummer](assets/img/jdrummer.png){: .shadow }

@@ -2,7 +2,7 @@
 title: New plugin - Wavetable
 date: 2026-02-06 11:00:00 +0100
 categories: [Blog, Audio Production]
-tags: [Fedora, Audio Production, Music Production, Linux, Plugin, VST3, LV2, Clap, Drums]
+tags: [Fedora, Audio Production, Music Production, Linux, Plugin, VST3, LV2, Clap, Synth]
 image: assets/img/Wavetable.png
 ---
 
@@ -11,6 +11,8 @@ image: assets/img/Wavetable.png
 I have added a new plugin **Wavetable** to my [timlau/audio](https://copr.fedorainfracloud.org/coprs/timlau/audio/) COPR repository.
 
 [Wavetable](https://socalabs.com/synths/wavetable/) is A 2 oscillator wavetable synthesizer with flexible modulation options.
+
+[Check here for install instructions](/posts/fedora-audio-timlau-audio/#wavetable)
 
 ## Features
 
