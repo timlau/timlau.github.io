@@ -15,6 +15,16 @@ sudo dnf enable timlau/audio
 ```
 
 ## Instruments
+
+### Loopino
+![Loopino](assets/img/loopino.png){: .shadow }
+[Loopino](https://github.com/brummer10/Loopino) is a lightweight audio sampler. It allows you to load, trim, and loop audio files with precision, making it ideal for crafting seamless sample loops. With a clean, minimal interface, Loopino fits perfectly into any audio workflow — whether for sound design, live performance, or creative sampling experiments.
+
+```terminal
+sudo dnf install Loopino-clap
+sudo dnf install Loopino
+```
+
 ### Wavetable
 ![Wavetable](assets/img/Wavetable.png){: .shadow }
 [Wavetable](https://socalabs.com/synths/wavetable/) is A 2 oscillator wavetable synthesizer with flexible modulation options.
