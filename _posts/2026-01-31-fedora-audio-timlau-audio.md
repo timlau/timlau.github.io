@@ -142,6 +142,19 @@ sudo dnf install geonkick-lv2
 
 ## Effects
 
+### Analog Channel
+![AnalogChannel](assets/img/AnalogChannel.png)
+[Analog Channel](https://github.com/FilTer87/VST-AnalogChannel) is a channel strip plugin designed for mixing engineers who demand fast and characterful results in their workflow.
+Each section provides carefully limited controls: fixed attack/release times, discrete frequency selections, and pre-configured parameters (both fixed and dynamic) working under the hood to deliver professional results with most source material. This is your go-to channel strip for fast, colored, musical mixing decisions.
+
+```terminal
+sudo dnf install AnalogChannel-vst3
+sudo dnf install AnalogChannel-clap
+sudo dnf install AnalogChannel-lv2
+sudo dnf install AnalogChannel
+```
+
+
 ### Build Your Own Distortion (BYOD)
 ![BYOD](assets/img/BYOD.png)
 [BYOD](https://github.com/Chowdhury-DSP/BYOD) is a guitar effects plugin with a customisable signal chain that allows users to create their own guitar distortion effects. The plugin contains a wide variety of distortion effects from analog modelled circuits to purely digital creations, along with some musical tone-shaping filters, and a handful of other useful signal processors.
