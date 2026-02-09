@@ -110,7 +110,7 @@ sudo dnf install Crypt2
 ### OB-Xf
 ![OB-Xf](assets/img/OBXf.png)
 
-[OB-Xf](https://github.com/surge-synthesizer/OB-XfX) is a Synth based on the legendary Oberheim OB-X.
+[OB-Xf](https://github.com/surge-synthesizer/OB-Xf) is a Synth based on the legendary Oberheim OB-X.
 OB-Xf is a continuation of the last open source version of OB-Xd by 2DaT and later discoDSP,
 bringing together several efforts going on in the audio space and combining them inside the Surge Synth Team infrastructure.
 The synth is currently in a beta phase, with a few features still under development, but the plugin is feature stable and working rather well,we believe.
