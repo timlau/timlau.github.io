@@ -152,6 +152,38 @@ sudo dnf install geonkick-lv2
 
 ## Effects
 
+### ZL Compressor
+![ZLCompressor](assets/img/ZLCompressor.png)
+
+[ZL Compressor](https://zl-audio.github.io/plugins/zlcompressor/) is 
+ZL Equalizer is an equalizer plugin with the following key features:
+
+- **Multiple Filter Settings:** Supports 6 filter structures, 16 frequency bands, 8 filter types, 5 stereo modes, 7 variable slopes.
+- **High-Quality Sound:** With 64-bit floating-point processing and de-cramping technique, outstanding performance is ensured in both low-end and high-end.
+- **Adjustable Dynamics:** Adjustable threshold, attack, release, and side-chain frequency, etc.
+- **Carefully Designed Interface:** Interactive spectrum graph, smart collision detection, and smooth animations.
+
+```terminal
+sudo dnf install ZLCompressor-vst3
+sudo dnf install ZLCompressor-lv2
+```
+
+
+### Setekh
+![setekh](assets/img/setekh.png)
+
+[Setekh](https://fullfxmedia.com/plugins/setekh) is a minimalistic yet sonically powerful distortion plugin
+
+Setekh is a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion.
+
+```terminal
+sudo dnf install setekh-vst3
+sudo dnf install setekh-clap
+sudo dnf install setekh-lv2
+sudo dnf install setekh
+```
+
+
 ### Analog Channel
 ![AnalogChannel](assets/img/AnalogChannel.png)
 [Analog Channel](https://github.com/FilTer87/VST-AnalogChannel) is a channel strip plugin designed for mixing engineers who demand fast and characterful results in their workflow.
