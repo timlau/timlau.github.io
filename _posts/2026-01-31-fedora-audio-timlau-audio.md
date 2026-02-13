@@ -11,7 +11,7 @@ I have created a [timlau/audio](https://copr.fedorainfracloud.org/coprs/timlau/a
 
 ### You can enable the repository using
 ```terminal
-sudo dnf enable timlau/audio
+dnf copr enable timlau/audio 
 ```
 
 ## Instruments
