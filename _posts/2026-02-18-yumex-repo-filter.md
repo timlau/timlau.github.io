@@ -31,3 +31,4 @@ To install it, run the following commands:
 sudo dnf copr enable timlau/yumex-ng-dev
 sudo dnf install yumex
 ```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P81FOLMO)
