@@ -13,3 +13,9 @@ I have a lot of interests in many subjects like Audio & Music production, Space 
 If you like my work, you can 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P81FOLMO)
+
+### YouTube
+I have a couple of YouTube channels where I share my knowledge and experiences in various fields.
+
+- [My tutorial channel](https://www.youtube.com/@nerdytim666)
+- [My live music channel](https://www.youtube.com/@timlaudk)
