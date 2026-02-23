@@ -1,6 +1,6 @@
 ---
 title: Fedora Audio Production Ressources
-date: 2026-02-13 10:30:00 +0100
+date: 2026-02-23 12:00:00 +0100
 categories: [Fedora, Audio Production]
 tags: [Fedora, Audio Production, Music Production]
 image: assets/img/pexels-llane-a-3825752.jpg     
@@ -16,6 +16,9 @@ I will update it over time, when I find good ressources. Feel free to add purpos
 ## Fedora Audio Ressources
 
 - [Audinux](https://audinux.github.io/) by Yann Collette, is a webpage and a COPR repository containing packages and information about audio production in linux. there might be some packages also available in my repository.
+- [LinuxSampler Suite packages by Jim Hines(Lexridge)](https://copr.fedorainfracloud.org/coprs/lexridge/linuxsampler-suite/)
+- [Polyphone packages by Jim Hines(Lexridge)](https://copr.fedorainfracloud.org/coprs/lexridge/Polyphone/)
+- [Sfizz UI packages by Jim Hines(Lexridge)](https://copr.fedorainfracloud.org/coprs/lexridge/sfizz-ui/)
 
 
 ## Acticles about Audio/Music production in Fedora
