@@ -16,6 +16,17 @@ dnf copr enable timlau/audio
 
 ## Instruments
 
+### INTERSECT
+![INTERSECT](https://github.com/tucktuckg00se/INTERSECT/raw/master/.github/assets/screenshot.png){: .shadow }
+[INTERSECT](https://github.com/tucktuckg00se/INTERSECT) is a nondestructive, time-stretching, and intersecting sample slicer plugin with independent per-slice parameter control. 
+
+```terminal
+sudo dnf install INTERSECT-clap
+sudo dnf install INTERSECT-lv2
+sudo dnf install INTERSECT-vst3
+sudo dnf install INTERSECT
+```
+
 ### Loopino
 ![Loopino](assets/img/loopino.png){: .shadow }
 [Loopino](https://github.com/brummer10/Loopino) is a lightweight audio sampler. It allows you to load, trim, and loop audio files with precision, making it ideal for crafting seamless sample loops. With a clean, minimal interface, Loopino fits perfectly into any audio workflow — whether for sound design, live performance, or creative sampling experiments.
